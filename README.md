@@ -1,13 +1,15 @@
 # Transporationprice
 Machine Learning project 
 
+Ligia Anjos and Baranaba
 
-Welcome to our project
 
-Objective:
+## Welcome to our project
+
+## Objective:
 Develop a model to predict the price of a ride based on factors such as distance, location, ride type, weather conditions, and time.
 
-Useful Features:
+## Useful Features:
 
 -price: Target variable for prediction.
 -distance: Ride distance (directly impacts price).
